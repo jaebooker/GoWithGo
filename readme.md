@@ -1,6 +1,6 @@
-#Welcome to the GoWithGo Readme!
+Welcome to the GolangGo Readme!
 
-#Scroll down, to find out what amazing things we're doing!
+Scroll down, to find out what amazing things we're doing!
 
 #
 #
